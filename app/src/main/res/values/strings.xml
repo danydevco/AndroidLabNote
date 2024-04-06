@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Parcial_2_JG</string>
+
+    <!--    Activity Note-->
+    <string name="title_main">Notas</string>
+    <string name="btn_edit_main">Editar</string>
+    <string name="btn_delete_main">Eliminar</string>
+    <string name="btn_add_main">+ Agregar</string>
+    <string name="text_example">example</string>
+
+
+
+    <!--    Activity Create / Update-->
+    <string name="title_create">Crear nota</string>
+    <string name="title_update">Actualizar nota</string>
+    <string name="btn_save_note">Guardar</string>
+    <string name="inp_title_note">Titulo:</string>
+    <string name="inp_contenido_note">Contenido:</string>
+
+    <!--    Activity -->
+
+</resources>
